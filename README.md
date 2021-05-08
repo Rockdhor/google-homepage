@@ -1,0 +1,1 @@
+This is a simple copy of the google homepage.
